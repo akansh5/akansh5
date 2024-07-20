@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning
 - 🌱 I’m currently learning java,python
 - 💞️ I’m looking to collaborate.
-- 📫 How to reach me on X:https://x.com/_akanshrawat
+- 📫 How to reach me on X: link
 
 <!---
 akansh5/akansh5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
